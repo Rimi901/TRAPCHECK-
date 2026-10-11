@@ -1,0 +1,673 @@
+[
+  {
+    "id": 1,
+    "city": "Bangkok",
+    "category": "food",
+    "item": "Pad Thai (street stall)",
+    "keywords": [
+      "pad thai",
+      "padthai",
+      "stir fried noodles",
+      "noodles"
+    ],
+    "fair_min": 50,
+    "fair_max": 120,
+    "currency": "THB",
+    "local_tip": "Tourist zones charge 2-3x. Walk 2 streets away from the main road."
+  },
+  {
+    "id": 2,
+    "city": "Bangkok",
+    "category": "food",
+    "item": "Tom Yum Goong (restaurant)",
+    "keywords": [
+      "tom yum",
+      "tom yam",
+      "soup"
+    ],
+    "fair_min": 80,
+    "fair_max": 250,
+    "currency": "THB",
+    "local_tip": "Street-side restaurants beat riverside tourist places on price and taste."
+  },
+  {
+    "id": 3,
+    "city": "Bangkok",
+    "category": "food",
+    "item": "Mango Sticky Rice",
+    "keywords": [
+      "mango sticky rice",
+      "khao niew mamuang",
+      "dessert"
+    ],
+    "fair_min": 50,
+    "fair_max": 100,
+    "currency": "THB",
+    "local_tip": "Above 100 THB is tourist pricing. Markets near universities are cheapest."
+  },
+  {
+    "id": 4,
+    "city": "Bangkok",
+    "category": "taxi",
+    "item": "Tuk Tuk ride (2 km)",
+    "keywords": [
+      "tuk tuk",
+      "tuk-tuk",
+      "auto rickshaw"
+    ],
+    "fair_min": 60,
+    "fair_max": 150,
+    "currency": "THB",
+    "local_tip": "Agree the price BEFORE getting in. Anything over 200 THB for 2km is a scam."
+  },
+  {
+    "id": 5,
+    "city": "Bangkok",
+    "category": "taxi",
+    "item": "Meter taxi (2 km)",
+    "keywords": [
+      "taxi",
+      "meter taxi",
+      "cab"
+    ],
+    "fair_min": 35,
+    "fair_max": 70,
+    "currency": "THB",
+    "local_tip": "Insist on the meter. 'Fixed price' rides are usually 2-4x the meter."
+  },
+  {
+    "id": 6,
+    "city": "Bangkok",
+    "category": "taxi",
+    "item": "Airport to city (taxi)",
+    "keywords": [
+      "airport taxi",
+      "airport transfer",
+      "suvarnabhumi"
+    ],
+    "fair_min": 250,
+    "fair_max": 450,
+    "currency": "THB",
+    "local_tip": "Use the official meter taxi queue, ignore touts inside the terminal."
+  },
+  {
+    "id": 7,
+    "city": "Bangkok",
+    "category": "souvenir",
+    "item": "Thai silk scarf",
+    "keywords": [
+      "silk",
+      "scarf",
+      "silk scarf"
+    ],
+    "fair_min": 150,
+    "fair_max": 500,
+    "currency": "THB",
+    "local_tip": "Markets like Chatuchak sell real silk far cheaper than hotel shops."
+  },
+  {
+    "id": 8,
+    "city": "Bangkok",
+    "category": "money",
+    "item": "Currency exchange (typical margin)",
+    "keywords": [
+      "exchange",
+      "money exchange",
+      "forex"
+    ],
+    "fair_min": 0,
+    "fair_max": 60,
+    "currency": "THB",
+    "local_tip": "Avoid exchange booths in airports and tourist alleys; compare rates online first."
+  },
+  {
+    "id": 9,
+    "city": "Bangkok",
+    "category": "attraction",
+    "item": "Grand Palace entry",
+    "keywords": [
+      "grand palace",
+      "palace ticket"
+    ],
+    "fair_min": 450,
+    "fair_max": 500,
+    "currency": "THB",
+    "local_tip": "Official price is 500 THB. Anyone selling 'combo tickets' outside is scamming you."
+  },
+  {
+    "id": 10,
+    "city": "Bangkok",
+    "category": "food",
+    "item": "Coconut water (fresh)",
+    "keywords": [
+      "coconut",
+      "coconut water"
+    ],
+    "fair_min": 30,
+    "fair_max": 60,
+    "currency": "THB",
+    "local_tip": "Convenience stores sell the same coconut for 25-35 THB."
+  },
+  {
+    "id": 11,
+    "city": "Bangkok",
+    "category": "transport",
+    "item": "Songthaew ride (local)",
+    "keywords": [
+      "songthaew",
+      "local bus",
+      "truck taxi"
+    ],
+    "fair_min": 10,
+    "fair_max": 30,
+    "currency": "THB",
+    "local_tip": "Locals pay 10-15 THB. If quoted 100+, walk away."
+  },
+  {
+    "id": 12,
+    "city": "Bangkok",
+    "category": "food",
+    "item": "Bottled water (1L)",
+    "keywords": [
+      "water",
+      "bottled water"
+    ],
+    "fair_min": 7,
+    "fair_max": 15,
+    "currency": "THB",
+    "local_tip": "7-Eleven price is 7-14 THB. Charging 40+ THB is pure tourist tax."
+  },
+  {
+    "id": 13,
+    "city": "Bangkok",
+    "category": "attraction",
+    "item": "Tuk Tuk 'temple tour' (1hr)",
+    "keywords": [
+      "temple tour",
+      "tuk tuk tour",
+      "city tour"
+    ],
+    "fair_min": 300,
+    "fair_max": 600,
+    "currency": "THB",
+    "local_tip": "Beware the 'temple closed' scam - drivers redirect you to gem/jewel shops."
+  },
+  {
+    "id": 14,
+    "city": "Bangkok",
+    "category": "nightlife",
+    "item": "Beer (Singha 640ml, bar)",
+    "keywords": [
+      "beer",
+      "singha",
+      "chang"
+    ],
+    "fair_min": 60,
+    "fair_max": 140,
+    "currency": "THB",
+    "local_tip": "7-Eleven sells it for 55 THB. Bars over 200 THB are tourist traps."
+  },
+  {
+    "id": 15,
+    "city": "Bangkok",
+    "category": "food",
+    "item": "Green curry with rice",
+    "keywords": [
+      "green curry",
+      "curry",
+      "gaeng keow wan"
+    ],
+    "fair_min": 70,
+    "fair_max": 180,
+    "currency": "THB",
+    "local_tip": "Food courts in malls have clean, fair-priced local food."
+  },
+  {
+    "id": 16,
+    "city": "Bali",
+    "category": "food",
+    "item": "Nasi Goreng (warung)",
+    "keywords": [
+      "nasi goreng",
+      "fried rice"
+    ],
+    "fair_min": 20000,
+    "fair_max": 50000,
+    "currency": "IDR",
+    "local_tip": "Thousands! 20,000-50,000 IDR is normal. 250,000 IDR is a scam."
+  },
+  {
+    "id": 17,
+    "city": "Bali",
+    "category": "taxi",
+    "item": "Taxi Seminyak to Ubud",
+    "keywords": [
+      "taxi",
+      "cab",
+      "transfer",
+      "semininyak",
+      "ubud"
+    ],
+    "fair_min": 250000,
+    "fair_max": 400000,
+    "currency": "IDR",
+    "local_tip": "Thousands again: 250,000-400,000 IDR. Use Grab/Gojek app pricing as reference."
+  },
+  {
+    "id": 18,
+    "city": "Bali",
+    "category": "transport",
+    "item": "Scooter rental (per day)",
+    "keywords": [
+      "scooter",
+      "motorbike",
+      "bike rental"
+    ],
+    "fair_min": 50000,
+    "fair_max": 90000,
+    "currency": "IDR",
+    "local_tip": "50,000-90,000 IDR/day. Check the helmet and take photos of existing damage."
+  },
+  {
+    "id": 19,
+    "city": "Bali",
+    "category": "attraction",
+    "item": "Tanah Lot temple entry",
+    "keywords": [
+      "tanah lot",
+      "temple entry",
+      "temple ticket"
+    ],
+    "fair_min": 50000,
+    "fair_max": 75000,
+    "currency": "IDR",
+    "local_tip": "Buy tickets at the official gate only. Third parties add fake 'fees'."
+  },
+  {
+    "id": 20,
+    "city": "Bali",
+    "category": "money",
+    "item": "Currency exchange margin",
+    "keywords": [
+      "money changer",
+      "exchange",
+      "forex"
+    ],
+    "fair_min": 0,
+    "fair_max": 50,
+    "currency": "IDR",
+    "local_tip": "Beware 'commission free' changers with rigged calculators. Count your money twice."
+  },
+  {
+    "id": 21,
+    "city": "Bali",
+    "category": "food",
+    "item": "Bintang beer (bar)",
+    "keywords": [
+      "bintang",
+      "beer"
+    ],
+    "fair_min": 25000,
+    "fair_max": 60000,
+    "currency": "IDR",
+    "local_tip": "Beach bars in Canggu/Seminyak charge double. Check the menu before sitting."
+  },
+  {
+    "id": 22,
+    "city": "Bali",
+    "category": "souvenir",
+    "item": "Handmade sarong",
+    "keywords": [
+      "sarong",
+      "sarongs"
+    ],
+    "fair_min": 80000,
+    "fair_max": 200000,
+    "currency": "IDR",
+    "local_tip": "Sukawati market starts at triple price. Bargain to about half of first quote."
+  },
+  {
+    "id": 23,
+    "city": "Bali",
+    "category": "attraction",
+    "item": "Ubud Monkey Forest entry",
+    "keywords": [
+      "monkey forest",
+      "ubud monkey"
+    ],
+    "fair_min": 60000,
+    "fair_max": 80000,
+    "currency": "IDR",
+    "local_tip": "Official entry is 80,000 IDR. Ignore 'guides' who insist payment is needed."
+  },
+  {
+    "id": 24,
+    "city": "Bali",
+    "category": "food",
+    "item": "Fresh coconut",
+    "keywords": [
+      "coconut",
+      "kelapa"
+    ],
+    "fair_min": 25000,
+    "fair_max": 50000,
+    "currency": "IDR",
+    "local_tip": "Warungs charge 25,000-35,000. Beach-front stalls can ask 100,000+."
+  },
+  {
+    "id": 25,
+    "city": "Bali",
+    "category": "transport",
+    "item": "Local bemo ride",
+    "keywords": [
+      "bemo",
+      "minibus",
+      "public transport"
+    ],
+    "fair_min": 5000,
+    "fair_max": 15000,
+    "currency": "IDR",
+    "local_tip": "Locals pay 5,000-10,000. Negotiate before boarding, not after."
+  },
+  {
+    "id": 26,
+    "city": "Bali",
+    "category": "activity",
+    "item": "Snorkeling trip (day)",
+    "keywords": [
+      "snorkeling",
+      "snorkel",
+      "day trip",
+      "nusa penida"
+    ],
+    "fair_min": 300000,
+    "fair_max": 700000,
+    "currency": "IDR",
+    "local_tip": "Book from licensed operators with written inclusions, not beach touts."
+  },
+  {
+    "id": 27,
+    "city": "Bali",
+    "category": "food",
+    "item": "Babi Guling (suckling pig)",
+    "keywords": [
+      "babi guling",
+      "suckling pig"
+    ],
+    "fair_min": 35000,
+    "fair_max": 70000,
+    "currency": "IDR",
+    "local_tip": "Local warungs in Ubud are famous and fair-priced."
+  },
+  {
+    "id": 28,
+    "city": "Bali",
+    "category": "souvenir",
+    "item": "Coffee beans (1kg, local)",
+    "keywords": [
+      "coffee",
+      "kopi",
+      "beans"
+    ],
+    "fair_min": 150000,
+    "fair_max": 350000,
+    "currency": "IDR",
+    "local_tip": "Avoid 'luwak coffee' tours with pushy sales rooms - the tasting is the scam."
+  },
+  {
+    "id": 29,
+    "city": "Jaipur",
+    "category": "taxi",
+    "item": "Auto rickshaw (2 km)",
+    "keywords": [
+      "auto",
+      "rickshaw",
+      "auto rickshaw",
+      "tuktuk"
+    ],
+    "fair_min": 30,
+    "fair_max": 60,
+    "currency": "INR",
+    "local_tip": "Say 'meter se chalo' or use Uber/Ola. Refusal to use meter = walk away."
+  },
+  {
+    "id": 30,
+    "city": "Jaipur",
+    "category": "taxi",
+    "item": "Full-day auto sightseeing",
+    "keywords": [
+      "full day",
+      "sightseeing",
+      "day package",
+      "auto tour"
+    ],
+    "fair_min": 400,
+    "fair_max": 800,
+    "currency": "INR",
+    "local_tip": "Drivers get commissions from shops - insist they skip 'gift shops'."
+  },
+  {
+    "id": 31,
+    "city": "Jaipur",
+    "category": "attraction",
+    "item": "Amber Fort entry",
+    "keywords": [
+      "amber fort",
+      "amer fort",
+      "fort ticket"
+    ],
+    "fair_min": 200,
+    "fair_max": 550,
+    "currency": "INR",
+    "local_tip": "Official foreigner price ~550 INR. Bypass 'guides' selling cheaper 'tickets'."
+  },
+  {
+    "id": 32,
+    "city": "Jaipur",
+    "category": "food",
+    "item": "Rajasthani Thali",
+    "keywords": [
+      "thali",
+      "rajasthani thali"
+    ],
+    "fair_min": 120,
+    "fair_max": 350,
+    "currency": "INR",
+    "local_tip": "Local bhojanalayas serve unlimited thalis for 150-250 INR."
+  },
+  {
+    "id": 33,
+    "city": "Jaipur",
+    "category": "food",
+    "item": "Masala Chai (street)",
+    "keywords": [
+      "chai",
+      "tea",
+      "masala chai"
+    ],
+    "fair_min": 10,
+    "fair_max": 25,
+    "currency": "INR",
+    "local_tip": "Over 30 INR for a cutting chai is tourist pricing."
+  },
+  {
+    "id": 34,
+    "city": "Jaipur",
+    "category": "souvenir",
+    "item": "Blue pottery plate",
+    "keywords": [
+      "blue pottery",
+      "pottery",
+      "ceramic"
+    ],
+    "fair_min": 150,
+    "fair_max": 600,
+    "currency": "INR",
+    "local_tip": "Bazaar rates are a third of hotel-lobby shop rates. Fixed-price govt emporiums help."
+  },
+  {
+    "id": 35,
+    "city": "Jaipur",
+    "category": "souvenir",
+    "item": "Silver jewelry (per gram)",
+    "keywords": [
+      "silver",
+      "jewelry",
+      "jewellery",
+      "silver jewelry"
+    ],
+    "fair_min": 70,
+    "fair_max": 110,
+    "currency": "INR",
+    "local_tip": "Ask for making charges separately in writing. Check the hallmark stamp."
+  },
+  {
+    "id": 36,
+    "city": "Jaipur",
+    "category": "transport",
+    "item": "Airport to city center (taxi)",
+    "keywords": [
+      "airport",
+      "airport taxi",
+      "pickup"
+    ],
+    "fair_min": 300,
+    "fair_max": 600,
+    "currency": "INR",
+    "local_tip": "Prepaid taxi counter inside the terminal is the safe choice."
+  },
+  {
+    "id": 37,
+    "city": "Jaipur",
+    "category": "attraction",
+    "item": "Hawa Mahal entry",
+    "keywords": [
+      "hawa mahal",
+      "palace of winds"
+    ],
+    "fair_min": 50,
+    "fair_max": 200,
+    "currency": "INR",
+    "local_tip": "Indians 50 INR, foreigners 200 INR. Do not buy 'photo passes' from touts."
+  },
+  {
+    "id": 38,
+    "city": "Jaipur",
+    "category": "food",
+    "item": "Pani Puri (6 pcs)",
+    "keywords": [
+      "pani puri",
+      "golgappa",
+      "street snack"
+    ],
+    "fair_min": 20,
+    "fair_max": 50,
+    "currency": "INR",
+    "local_tip": "Busy stalls with queues = fresh oil and fair prices."
+  },
+  {
+    "id": 39,
+    "city": "Jaipur",
+    "category": "money",
+    "item": "Currency exchange margin",
+    "keywords": [
+      "exchange",
+      "money changer",
+      "forex"
+    ],
+    "fair_min": 0,
+    "fair_max": 60,
+    "currency": "INR",
+    "local_tip": "Use authorized dealers; get the receipt. Street changers use rigged rates."
+  },
+  {
+    "id": 40,
+    "city": "Jaipur",
+    "category": "activity",
+    "item": "Hot air balloon (per person)",
+    "keywords": [
+      "hot air balloon",
+      "balloon ride"
+    ],
+    "fair_min": 6000,
+    "fair_max": 12000,
+    "currency": "INR",
+    "local_tip": "Book online in advance. Street agents add 30-50% 'commission'."
+  },
+  {
+    "id": 41,
+    "city": "Bali",
+    "category": "food",
+    "item": "Bottled water (1.5L)",
+    "keywords": [
+      "water",
+      "bottled water",
+      "mineral water"
+    ],
+    "fair_min": 5000,
+    "fair_max": 12000,
+    "currency": "IDR",
+    "local_tip": "Minimart price is 5,000-8,000 IDR. Mini-bar fridges charge 50,000+"
+  },
+  {
+    "id": 42,
+    "city": "Bangkok",
+    "category": "food",
+    "item": "Boat noodles (1 bowl)",
+    "keywords": [
+      "boat noodle",
+      "noodle soup",
+      "kuay teow"
+    ],
+    "fair_min": 15,
+    "fair_max": 60,
+    "currency": "THB",
+    "local_tip": "Victory Monument boat noodle alleys are the benchmark."
+  },
+  {
+    "id": 43,
+    "city": "Jaipur",
+    "category": "food",
+    "item": "Dal Baati Churma",
+    "keywords": [
+      "dal baati",
+      "churma",
+      "rajasthani"
+    ],
+    "fair_min": 100,
+    "fair_max": 280,
+    "currency": "INR",
+    "local_tip": "Rajasthani thali houses are best value. Tourist rooftop cafes charge double."
+  },
+  {
+    "id": 44,
+    "city": "Bali",
+    "category": "activity",
+    "item": "Sunrise trekking guide (Mt Batur)",
+    "keywords": [
+      "batur",
+      "trekking",
+      "sunrise trek",
+      "hiking guide"
+    ],
+    "fair_min": 350000,
+    "fair_max": 700000,
+    "currency": "IDR",
+    "local_tip": "Packages with transport from Ubud run 400,000-700,000 IDR. Confirm breakfast included."
+  },
+  {
+    "id": 45,
+    "city": "Bangkok",
+    "category": "souvenir",
+    "item": "Elephant pants",
+    "keywords": [
+      "elephant pants",
+      "harem pants",
+      "trousers"
+    ],
+    "fair_min": 100,
+    "fair_max": 250,
+    "currency": "THB",
+    "local_tip": "Chatuchak weekend market ~150 THB. Khao San starts at 350+ - bargain hard."
+  }
+]

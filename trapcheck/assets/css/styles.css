@@ -1,0 +1,49 @@
+/* TrapCheck custom styles */
+:root {
+  --navy: #0F172A;
+  --accent: #06B6D4;
+  --bg: #F8FAFC;
+  --success: #10B981;
+  --warning: #F59E0B;
+  --danger: #EF4355;
+}
+
+/* Skeleton loading lines */
+.skeleton-line {
+  height: 14px;
+  border-radius: 8px;
+  width: 100%;
+  background: linear-gradient(90deg, #E2E8F0 25%, #F1F5F9 50%, #E2E8F0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.4s infinite linear;
+}
+.skeleton-line.short { width: 65%; }
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+/* Result card pop-in */
+@keyframes popIn {
+  0% { opacity: 0; transform: translateY(10px) scale(0.98); }
+  100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* Score ring draw animation */
+circle[stroke-dasharray] {
+  animation: ringDraw 0.9s cubic-bezier(0.4, 0, 0.2, 1) both;
+}
+@keyframes ringDraw {
+  from { stroke-dasharray: 0 314; }
+}
+
+/* Mobile-first scanner grid collapse */
+@media (max-width: 820px) {
+  .scanner-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .community-grid {
+    grid-template-columns: 1fr !important;
+  }
+}

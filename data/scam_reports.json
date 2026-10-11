@@ -1,0 +1,19 @@
+[
+  {"id": 1, "city": "Bangkok", "lat": 13.7500, "lng": 100.5050, "category": "tuk-tuk", "description": "Driver quoted 400 THB for 2 km, refused meter", "avg_overcharge_pct": 220, "date": "2026-09-28"},
+  {"id": 2, "city": "Bangkok", "lat": 13.7465, "lng": 100.4930, "category": "gem-scam", "description": "Tuk tuk driver insisted temple was closed, took me to gem shop", "avg_overcharge_pct": 0, "date": "2026-09-30"},
+  {"id": 3, "city": "Bangkok", "lat": 13.7215, "lng": 100.5266, "category": "bar", "description": "Bar charged 3000 THB for 2 beers, door guards pressured payment", "avg_overcharge_pct": 500, "date": "2026-10-02"},
+  {"id": 4, "city": "Bangkok", "lat": 13.6900, "lng": 100.7501, "category": "taxi", "description": "Airport taxi refused meter, asked 1500 THB fixed", "avg_overcharge_pct": 250, "date": "2026-10-03"},
+  {"id": 5, "city": "Bangkok", "lat": 13.7300, "lng": 100.5780, "category": "jet-ski", "description": "Jet-ski rental claimed fake damage, demanded 40,000 THB", "avg_overcharge_pct": 0, "date": "2026-10-01"},
+  {"id": 6, "city": "Bali", "lat": -8.5069, "lng": 115.2625, "category": "money-changer", "description": "Changer shorted notes, calculator trick at Kuta exchange", "avg_overcharge_pct": 15, "date": "2026-09-27"},
+  {"id": 7, "city": "Bali", "lat": -8.6500, "lng": 115.2167, "category": "transport", "description": "Airport taxi demanded 800,000 IDR for Seminyak", "avg_overcharge_pct": 150, "date": "2026-09-29"},
+  {"id": 8, "city": "Bali", "lat": -8.5211, "lng": 115.3713, "category": "guide", "description": "Fake 'temple guide' charged extra fees at gate", "avg_overcharge_pct": 100, "date": "2026-10-01"},
+  {"id": 9, "city": "Bali", "lat": -8.7176, "lng": 115.1686, "category": "transport", "description": "Meter never switched on, 4x price negotiated after ride", "avg_overcharge_pct": 300, "date": "2026-10-02"},
+  {"id": 10, "city": "Bali", "lat": -8.4095, "lng": 115.1889, "category": "activity", "description": "Snorkeling tour vanied from quoted price, hidden 'gear fee'", "avg_overcharge_pct": 80, "date": "2026-10-04"},
+  {"id": 11, "city": "Jaipur", "lat": 26.9855, "lng": 75.8513, "category": "souvenir", "description": "Gemstone shop near Amber Fort, 'certified ruby' pressure sale", "avg_overcharge_pct": 400, "date": "2026-09-26"},
+  {"id": 12, "city": "Jaipur", "lat": 26.9124, "lng": 75.7873, "category": "auto", "description": "Auto driver quoted 500 INR for 2 km ride to Hawa Mahal", "avg_overcharge_pct": 300, "date": "2026-09-28"},
+  {"id": 13, "city": "Jaipur", "lat": 26.9239, "lng": 75.8267, "category": "guide", "description": "Unofficial guide at City Palace, insisted entry included tour", "avg_overcharge_pct": 150, "date": "2026-09-30"},
+  {"id": 14, "city": "Jaipur", "lat": 26.9998, "lng": 75.8497, "category": "shop", "description": "Carpet shop 'free tea' then hard-sell, blocked exit politely", "avg_overcharge_pct": 0, "date": "2026-10-02"},
+  {"id": 15, "city": "Jaipur", "lat": 26.9046, "lng": 75.8074, "category": "shoe-shine", "description": "Shoe-wallah polished shoe without asking, demanded 200 INR", "avg_overcharge_pct": 600, "date": "2026-10-03"},
+  {"id": 16, "city": "Bangkok", "lat": 13.7590, "lng": 100.5350, "category": "tailor", "description": "Suit shop suit had fake measurements upsell, 12,000 THB", "avg_overcharge_pct": 200, "date": "2026-10-05"},
+  {"id": 17, "city": "Bali", "lat": -8.6021, "lng": 115.2804, "category": "money-changer", "description": "Rate board looked fair, commission applied at last step", "avg_overcharge_pct": 20, "date": "2026-10-05"}
+]
